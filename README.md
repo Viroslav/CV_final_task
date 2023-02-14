@@ -28,5 +28,8 @@ I devide this task into several steps:
 4) then another function to sum our frame and shaded_segmentation_mask_2
 5) combine it into whole big function total
 
-Here are some several random examples 
+Here are some several random examples:
+
 ![https://github.com/Viroslav/CV_final_task/main/main/10.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/10.png)
+![https://github.com/Viroslav/CV_final_task/blob/main/8.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/8.png)
+![https://github.com/Viroslav/CV_final_task/blob/main/7.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/7.png)
