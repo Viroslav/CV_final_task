@@ -29,3 +29,4 @@ I devide this task into several steps:
 5) combine it into whole big function total
 
 Here are some several random examples 
+https://raw.githubusercontent.com/Viroslav/CV_final_task/main/10.png
