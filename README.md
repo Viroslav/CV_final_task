@@ -29,4 +29,4 @@ I devide this task into several steps:
 5) combine it into whole big function total
 
 Here are some several random examples 
-![https://github.com/Viroslav/CV_final_task/blob/ee87f87a5b9b24a92ab9b869080b440d27742455/8.png] 
+![https://github.com/Viroslav/CV_final_task/main/main/10.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/10.png)
