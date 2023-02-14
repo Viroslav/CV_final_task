@@ -18,3 +18,14 @@ Note: you don't have to use all the inputs given to you. You may use only those 
 
 [*1]
 body25 + hands labelling, check out the openpose labels for more details if you want.
+
+
+Solution:
+I devide this task into several steps:
+1) Write a function for json_points to make them more convenient to use.
+2) write shaded_segmentation_mask_1 to use convexpoly and join together points of legs to make a frame
+3) another function shaded_segmentation_mask_2 which iterates over segmented areas and chek if points are inside, then include them into mask (to avoid taking hand into the picture)
+4) then another function to sum our frame and shaded_segmentation_mask_2
+5) combine it into whole big function total
+
+Here are some several random examples 
