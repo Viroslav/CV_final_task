@@ -31,5 +31,4 @@ I devide this task into several steps:
 Here are some several random examples:
 
 ![https://github.com/Viroslav/CV_final_task/main/main/10.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/10.png)
-![https://github.com/Viroslav/CV_final_task/blob/main/8.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/8.png)
 ![https://github.com/Viroslav/CV_final_task/blob/main/7.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/7.png)
