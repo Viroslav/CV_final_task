@@ -32,3 +32,4 @@ Here are some several random examples:
 
 ![https://github.com/Viroslav/CV_final_task/main/main/10.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/10.png)
 ![https://github.com/Viroslav/CV_final_task/blob/main/7.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/7.png)
+![https://github.com/Viroslav/CV_final_task/blob/main/11.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/11.png)
