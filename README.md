@@ -27,6 +27,7 @@ I devide this task into several steps:
 3) another function shaded_segmentation_mask_2 which iterates over segmented areas and chek if points are inside, then include them into mask (to avoid taking hand into the picture)
 4) then another function to sum our frame and shaded_segmentation_mask_2
 5) combine it into whole big function total
+6) fill the gap if it's so
 
 Here are some several random examples:
 
