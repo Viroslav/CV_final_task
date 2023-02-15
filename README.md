@@ -29,10 +29,13 @@ I devide this task into several steps:
 5) combine it into whole big function total
 6) fill the gap if it's so
 
+All final code in Final_task.ipynb file or in more convenient way here : https://colab.research.google.com/drive/1EaL6DaeLMWcNjEMMEodZNH93oIJPhGKb?usp=sharing
+
 Here are some several random examples:
-
-
 ![https://github.com/Viroslav/CV_final_task/main/main/1.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/1.png)
 ![https://github.com/Viroslav/CV_final_task/main/main/2.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/2.png)
 ![https://github.com/Viroslav/CV_final_task/main/main/3.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/3.png)
-![https://github.com/Viroslav/CV_final_task/blob/main/7.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/7.png)
+![https://github.com/Viroslav/CV_final_task/main/main/1.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/4.png)
+![https://github.com/Viroslav/CV_final_task/main/main/2.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/5.png)
+![https://github.com/Viroslav/CV_final_task/main/main/3.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/6.png)
+
