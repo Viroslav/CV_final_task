@@ -31,7 +31,7 @@ I devide this task into several steps:
 5) combine it into whole big function total
 6) fill the gap if it's so
 
-All final code in Final_task.ipynb file or in more convenient way here : https://colab.research.google.com/drive/1EaL6DaeLMWcNjEMMEodZNH93oIJPhGKb?usp=sharing
+All final code in Final_task.ipynb file.
 
 Here are some several random examples:
 
