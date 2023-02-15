@@ -19,6 +19,8 @@ Note: you don't have to use all the inputs given to you. You may use only those 
 [*1]
 body25 + hands labelling, check out the openpose labels for more details if you want.
 
+All data stored here:
+https://drive.google.com/drive/folders/1pASoDgBb6ePn0gqtrxH-uRdnkUl2hz1a?usp=sharing
 
 Solution:
 I devide this task into several steps:
