@@ -41,7 +41,7 @@ Here are some several random examples:
 ![https://github.com/Viroslav/CV_final_task/main/main/1.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/1.png)
 ![https://github.com/Viroslav/CV_final_task/main/main/2.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/2.png)
 ![https://github.com/Viroslav/CV_final_task/main/main/3.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/3.png)
-![https://github.com/Viroslav/CV_final_task/main/main/1.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/4.png)
-![https://github.com/Viroslav/CV_final_task/main/main/2.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/5.png)
-![https://github.com/Viroslav/CV_final_task/main/main/3.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/6.png)
+![https://github.com/Viroslav/CV_final_task/main/main/4.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/4.png)
+![https://github.com/Viroslav/CV_final_task/main/main/5.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/5.png)
+![https://github.com/Viroslav/CV_final_task/main/main/6.png](https://raw.githubusercontent.com/Viroslav/CV_final_task/main/6.png)
 
